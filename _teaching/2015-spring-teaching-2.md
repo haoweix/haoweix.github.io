@@ -1,5 +1,5 @@
 ---
-title: "Graduate Student Instructor"
+title: "Graduate Student Instructor: Matrix Methods for Signal Processing, Data Analysis and Machine Learning"
 collection: teaching
 type: "Graduate course EECS 551: Matrix Methods for Signal Processing, Data Analysis and Machine Learning"
 permalink: /teaching/2015-spring-teaching-1

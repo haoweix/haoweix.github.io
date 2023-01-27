@@ -1,5 +1,5 @@
 ---
-title: "Graduate Student Instructor"
+title: "Graduate Student Instructor: Probability and Random Process"
 collection: teaching
 type: "Graduate course EECS 501: Probability and Random Process"
 permalink: /teaching/2015-spring-teaching-1
