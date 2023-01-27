@@ -57,19 +57,13 @@ Talks
 
 Skills
 ======
-* Python
-  * Pytorch
-  * Numpy
-  * Scipy
-  * Tensorflow
-  * Pandas
+* Computer language
+  * Python: Pytorch, Numpy, Scipy, Tensorflow, Pandas
+  * MATLAB
+  * SQL
+  * Julia
 
-* MATLAB
-* SQL
-* Cloud Computing
-* Linux
-* Latex
-* Git
+* Others: Cloud Computing, Linux, Latex, Git
 
 Teaching
 ======
