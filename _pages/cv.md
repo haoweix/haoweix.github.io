@@ -54,6 +54,7 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
 Skills
 ======
 * Python
@@ -69,6 +70,7 @@ Skills
 * Linux
 * Latex
 * Git
+
   Teaching
   ======
   <ul>{% for post in site.teaching %}
