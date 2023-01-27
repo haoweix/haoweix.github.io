@@ -12,13 +12,23 @@ redirect_from:
 Education
 ======
 * B.S. in Huazhong University of Science and Technology, 2017
+  * Ranking: 3/207
+  * Selected to Qiming Honor Program (top 10%)
+  * Outstanding Graduates Award & Excellent Academic Performance Scholarship
 * M.S. in University of Michigan, Ann Arbor, 2019
+  * GPA: 3.95/4.0
+  * Relevant Coursework: Probability and Random Process, Matrix Theory, Machine Learning, Computer Vision, Image Processing
+
 * Ph.D in University of Michigan, Ann Arbor, 2024 (expected)
+  * GPA: 3.93/4.0
+  * Relevant Coursework: Funtional Analysis, Nonlinear Programming
+
 
 Research experience
 ======
 * Feb 2021 - Present: Research Assistant @ EECS, University of Michigan
-Advisor: Jeffrey A. Fessler and Douglas C. Noll. Designed and built novel Silent MRI techniques to reduce the acoustic noise in MRI, resolve the discomfort and anxiety in patients, and improve image qualities.  
+
+  Advisor: Jeffrey A. Fessler and Douglas C. Noll. Designed and built novel Silent MRI techniques to reduce the acoustic noise in MRI, resolve the discomfort and anxiety in patients, and improve image qualities.  
 
   * Optimized sampling trajectories using learning-based methods and improved peak signal-to-noise ratio by more than 3 dB
   * Reconstructed images using statistical models, resolved image artifacts, and improved image resolution by 2x
@@ -43,10 +53,11 @@ Skills
   * Pandas
 
 * MATLAB
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * SQL
+* Cloud Computing
+* Linux
+* Latex
+* Git
 
 Publications
 ======
@@ -65,7 +76,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
