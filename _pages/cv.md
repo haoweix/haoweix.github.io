@@ -43,6 +43,17 @@ Research experience
   * Predicted scatter effect using CNN yielded comparable results to traditional gold standard which took hours
   * Applied mathematical method to evaluating the deep learning model performance
   
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 Skills
 ======
 * Python
@@ -58,21 +69,8 @@ Skills
 * Linux
 * Latex
 * Git
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
+  Teaching
+  ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
