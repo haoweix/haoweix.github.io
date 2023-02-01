@@ -32,5 +32,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-There is more details in CV page
+I am currently looking for an internship for Summer 2023. There is more details about me in CV page
 ======
