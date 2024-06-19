@@ -14,7 +14,7 @@ Research Interest
 ======
 His major is [Signal & Image Processing, and Machine Learning](https://ece.engin.umich.edu/research/research-areas/signal-image-processing-and-machine-learning/). His research interests include **machine learning**, **image reconstruction**, **inverse problems**, **medical imaging**, **MRI and optimization**.
 
-[CV][https://haoweix.github.io/paper1.pdf]
+[CV][https://haoweix.github.io/files/paper1.pdf]
 
 
 I am currently looking for a full-time job. There is more details about me in CV page
