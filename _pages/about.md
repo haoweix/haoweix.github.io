@@ -14,6 +14,9 @@ Research Interest
 ======
 His major is [Signal & Image Processing, and Machine Learning](https://ece.engin.umich.edu/research/research-areas/signal-image-processing-and-machine-learning/). His research interests include machine learning, image reconstruction, inverse problems, medical imaging, MRI and optimization.
 
+I am currently looking for a full-time job. There is more details about me in CV page
+======
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -31,6 +34,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-I am currently looking for a full-time job. There is more details about me in CV page
-======
