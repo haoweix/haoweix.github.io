@@ -19,10 +19,7 @@ including **Probability and Random Process**, **Matrix Methods** for Signal Proc
 Research Interest
 ======
 His major is Signal & Image Processing, and Machine Learning. His research interests include **machine learning**, **image reconstruction**, **inverse problems**, **medical imaging**, **MRI and optimization**.
-
 <!-- (I am currently looking for a full-time job. There is more details about me in [CV](http://haoweix.github.io/files/xiang_resume_june20.pdf))-->
-======
-
 Publications
 ======
   <ul>{% for post in site.publications %}
