@@ -6,6 +6,6 @@ excerpt: ''
 date: 2019-06-01
 venue: 'Preprint'
 paperurl: ''
-citation: 'Xiyu Zhang*, Haowei Xiang*, Il Yong Chun, Mert Pilanci, and Jeffrey A. Fessler, Preprint'
+citation: 'Xiyu Zhang*, **Haowei Xiang***, Il Yong Chun, Mert Pilanci, and Jeffrey A. Fessler, Preprint'
 ---
 
