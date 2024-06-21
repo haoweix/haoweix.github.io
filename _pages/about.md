@@ -12,14 +12,14 @@ Haowei Xiang is currently a 5th year PhD student studying Electrical and Compute
 He has been working on developing algorithms for novel silent MRI techniques, including **model-based image reconstruction**, 
 **k-space trajectories optimization**, **spatial-temporal model for image reconstruction**, 
 **RF optimization**, and **pulse sequence design**. 
-In his past project, he used  **deep Convolutional Neural Networks (CNN)**  to predict SPECT/CT scatter by levering the historical and simulation data. In addition to his research, he was the graduate student instructor for graduate-level courses including **Probability and Random Process**, **Matrix Methods** for Signal Processing, Data Analysis and Machine Learning, and **Medical Imaging Systems**.
+In his past project, he used  **deep Convolutional Neural Networks (CNN)**  to predict SPECT/CT scatter by levering the historical and simulation data. 
+In addition to his research, he was the graduate student instructor for graduate-level courses 
+including **Probability and Random Process**, **Matrix Methods** for Signal Processing, Data Analysis and Machine Learning, and **Medical Imaging Systems**.
 
 Research Interest
 ======
-His major is [Signal & Image Processing, and Machine Learning](https://ece.engin.umich.edu/research/research-areas/signal-image-processing-and-machine-learning/). His research interests include **machine learning**, **image reconstruction**, **inverse problems**, **medical imaging**, **MRI and optimization**.
-
-
-I am currently looking for a full-time job. There is more details about me in CV page
+His major is Signal & Image Processing, and Machine Learning. His research interests include **machine learning**, **image reconstruction**, **inverse problems**, **medical imaging**, **MRI and optimization**.
+(I am currently looking for a full-time job. There is more details about me in [CV](haoweix.github.io/files/xiang_resume_june20.pdf))
 ======
 
 Publications
