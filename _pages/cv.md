@@ -50,6 +50,7 @@ Research experience
 * Jan 2018 - Aug 2018: Research Assistant , University of Michigan
 
   Acceleration of Convolutional Dictionary Learning and Convolutional Analysis Operator Learning by applying sketching method. This project won the first place in the KLA-Tencor Image Processing Contest ([Award](https://ece.engin.umich.edu/stories/students-win-prizes-for-improving-image-processing-techniques-for-liver-cancer-detection-and-much-more)).
+  
 Skills
 ======
 * Computer language
