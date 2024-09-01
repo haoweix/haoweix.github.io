@@ -14,3 +14,6 @@ I have been working on developing algorithms for novel silent MRI techniques, in
 In his past project, he used  **deep Convolutional Neural Networks (CNN)**  to predict SPECT/CT scatter by levering the historical and simulation data. 
 In addition to his research, he was the graduate student instructor for graduate-level courses 
 including **Probability and Random Process**, **Matrix Methods** for Signal Processing, Data Analysis and Machine Learning, and **Medical Imaging Systems**.
+
+### News 
+- **May 2024**: I successfully defended my Ph.D. thesis titled *"Advanced Image Reconstruction and Sampling Pattern Optimization in Silent MRI"*.  
