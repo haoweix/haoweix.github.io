@@ -1,6 +1,7 @@
 ---
 title: "A deep neural network for fast and accurate scatter estimation in quantitative SPECT/CT under challenging scatter conditions"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-05-01-paper-title-number-3
 excerpt: ''
 date: 2020-05-01

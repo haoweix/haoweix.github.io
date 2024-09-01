@@ -1,6 +1,7 @@
 ---
 title: "Spatial-temporal reconstruction using UNFOLD in looping-star silent fMRI"
 collection: publications
+category: conferences
 permalink: /publication/2022-05-01-paper-title-number-5
 excerpt: ''
 date: 2023-05-01
