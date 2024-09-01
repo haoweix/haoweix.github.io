@@ -1,6 +1,7 @@
 ---
 title: "SPECT/CT scatter estimation using a deep convolutional neural network: implementation in Y-90 imaging"
 collection: publications
+category: manuscripts
 permalink: /publication/2019-11-01-paper-title-number-2
 excerpt: ''
 date: 2019-11-01
