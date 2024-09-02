@@ -15,6 +15,8 @@ In his past project, he used  **deep Convolutional Neural Networks (CNN)**  to p
 In addition to his research, he was the graduate student instructor for graduate-level courses 
 including **Probability and Random Process**, **Matrix Methods** for Signal Processing, Data Analysis and Machine Learning, and **Medical Imaging Systems**.
 
+[**Click here**](https://haoweix.github.io/research/) for a quick overview of my research.
+
 ### News 
 - **May 2024**: I successfully defended my Ph.D. thesis titled *"Advanced Image Reconstruction and Sampling Pattern Optimization in Silent MRI"*.
 - **January 2024**: **"Model-based reconstruction for looping-star MRI"** (Magnetic Resonance in Medicine, 2024) was accepted. This work presents an advanced model-based reconstruction approach for Looping-Star MRI, improving image quality and accuracy.
