@@ -17,7 +17,7 @@ including **Probability and Random Process**, **Matrix Methods** for Signal Proc
 
 [**Click here**](https://haoweix.github.io/research/) for a quick overview of my research.
 
-### News 
+## News 
 - **May 2024**: I successfully defended my Ph.D. thesis titled *"Advanced Image Reconstruction and Sampling Pattern Optimization in Silent MRI"*.
 - **January 2024**: **"Model-based reconstruction for looping-star MRI"** (Magnetic Resonance in Medicine, 2024) was accepted. This work presents an advanced model-based reconstruction approach for Looping-Star MRI, improving image quality and accuracy.
 - **February 2024**: [Joint optimization of multi-echo reconstruction and quantitative map estimation in Looping Star](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yU4HYqgAAAAJ&sortby=pubdate&citation_for_view=yU4HYqgAAAAJ:Y0pCki6q_DkC) was accepted as an **Oral** presentation (Top 15%) at **ISMRM**.
