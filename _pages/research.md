@@ -25,7 +25,7 @@ Follow the great [guide](https://www.youtube.com/watch?v=l8pRSuU81PU&t=230s) by 
 
 The architecture of the transformers is slightly modified from the original transformer paper (shown below)
 
-![Transformers: is attention all we need in finance? Part I | Quantdare](https://quantdare.com/wp-content/uploads/2021/11/transformer_arch.png)
+![transformer_arch](C:\Users\xhw08\Documents\GitHub\haoweix.github.io\files\transformer_arch.png)
 
 ## Hand-written Digit classifier using low-rank and logistic regression
 
