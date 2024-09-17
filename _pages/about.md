@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now doing post-doctorate research at University of Michigan, ECE department and I am co-advised by [Prof. Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/) and [Prof. Douglas Noll](https://nollresearch.engin.umich.edu/). My main research interests include signal and image processing, computational imaging, inverse problems, and machine learning, with a focus on the MRI.  
+I am now doing post-doctorate research at University of Michigan, ECE department and I was lucky to be co-advised by [Prof. Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/) and [Prof. Douglas Noll](https://nollresearch.engin.umich.edu/). My main research interests include signal and image processing, computational imaging, inverse problems, and machine learning, with a focus on the MRI.  
 I have been working on developing algorithms for novel silent MRI techniques, including **model-based and learning-based image reconstruction**, 
 **k-space sampling optimization**, **dynamic  image reconstruction**, 
 **RF optimization**, and **pulse sequence design**. 
