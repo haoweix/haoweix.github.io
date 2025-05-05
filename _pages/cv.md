@@ -22,6 +22,23 @@ Education
   * Qiming Honor Program (top 10%)
   * Outstanding Graduates Award & Excellent Academic Performance Scholarship
 
+Work experience
+======
+
+* Apr 2025 - Present: Algorithm Engineer (image processing) at KLA
+* Jan 2025 - Apr 2025: Research Fellow at University of Michigan
+
+Skills
+======
+
+* Computer language
+  * Python: Pytorch, Tensorflow, Numpy, Scipy, Pandas
+  * C/C++
+  * MATLAB
+  * SQL
+  * Julia
+* Others: Cloud Computing, Linux, SLURM, Latex, Git
+
 Research experience
 ======
 * Feb 2021 - Present: Research Assistant @ EECS, University of Michigan
@@ -51,16 +68,6 @@ Research experience
 
   Acceleration of Convolutional Dictionary Learning and Convolutional Analysis Operator Learning by applying sketching method. This project won the first place in the KLA-Tencor Image Processing Contest ([Award](https://ece.engin.umich.edu/stories/students-win-prizes-for-improving-image-processing-techniques-for-liver-cancer-detection-and-much-more)).
   
-Skills
-======
-* Computer language
-  * Python: Pytorch, Tensorflow, Numpy, Scipy, Pandas
-  * C/C++
-  * MATLAB
-  * SQL
-  * Julia
-* Others: Cloud Computing, Linux, SLURM, Latex, Git
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
