@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now doing post-doctorate research at University of Michigan, ECE department and I was lucky to be co-advised by [Prof. Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/) and [Prof. Douglas Noll](https://nollresearch.engin.umich.edu/). My main research interests include signal and image processing, computational imaging, inverse problems, and machine learning, with a focus on the MRI.  
+I am now an Algorithm Engineer at KLA. Previously, I was a post-doctorate research fellow at University of Michigan, ECE department, where I was lucky to be co-advised by [Prof. Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/) and [Prof. Douglas Noll](https://nollresearch.engin.umich.edu/). My main research interests include signal and image processing, computational imaging, inverse problems, and machine learning, with a focus on the medical imaging applications.  
 I have been working on developing algorithms for novel silent MRI techniques, including **model-based and learning-based image reconstruction**, 
 **k-space sampling optimization**, **dynamic  image reconstruction**, 
 **RF optimization**, and **pulse sequence design**. 
@@ -18,6 +18,9 @@ including **Probability and Random Process**, **Matrix Methods** for Signal Proc
 [**Click here**](https://haoweix.github.io/research/) for a quick overview of my research.
 
 ## News 
+- [Apr 2025] **Career**: I started working at KLA as an Algorithm Engineer on image processing
+- [Feb 2025] **Research**: The abstract I co-authored was accepted to **ISMRM** "Improved spatial resolution for Looping Star fMRI using UNFOLD"
+- [Jan 2025] **Career**: I officially started post-doctorate research fellow at University of Michigan
 - [May 2024] **Research**: I successfully defended my Ph.D. thesis titled *"Advanced Image Reconstruction and Sampling Pattern Optimization in Silent MRI"*.
 - [Feb 2024] **Research**: [Joint optimization of multi-echo reconstruction and quantitative map estimation in Looping Star](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yU4HYqgAAAAJ&sortby=pubdate&citation_for_view=yU4HYqgAAAAJ:Y0pCki6q_DkC) was accepted as an **Oral** presentation (Top 15%) at **ISMRM**.
 - [Jan 2024] **Research**: **"Model-based reconstruction for looping-star MRI"** (Magnetic Resonance in Medicine, 2024) was accepted. This work presents an advanced model-based reconstruction approach for Looping-Star MRI, improving image quality and accuracy.
